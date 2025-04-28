@@ -1,1 +1,9 @@
-ECHO is on.
+*.pdf
+*.tmp
+*.log
+
+NieWiedzialaJak.txt
+
+log/
+build/
+
